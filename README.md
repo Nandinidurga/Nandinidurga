@@ -100,7 +100,7 @@ I am a Bachelor of Technology student specializing in **Artificial Intelligence 
 Let's collaborate on AI/ML developments, parallel program optimizations, or high-throughput data solutions!
 
 <p align="left">
-  <a href="https://linkedin.com/in/nandini-durga-surisetty" target="_blank">
+  <a href="https://www.linkedin.com/in/nandini-durga-surisetty-5a8892307" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:surisetti.nandini1122@gmail.com">
