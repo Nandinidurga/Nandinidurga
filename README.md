@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39c0fa&center=true&vCenter=true&width=500&height=50&lines=AI+%2F+ML+Undergraduate;HPC+%26+Parallel+Computing;Problem+Solver+%7C+570%2B+on+CodeChef" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39c0fa&center=true&vCenter=true&width=500&height=50&lines=AI+%2F+ML+Undergraduate;HPC+%26+Parallel+Computing;Aspiring+Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
