@@ -8,18 +8,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39c0fa&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Machine+Learning+Engineer;AI+%2F+ML+%26+LLM+Developer;HPC+%26+Parallel+Computing+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39c0fa&center=true&vCenter=true&width=500&height=50&lines=Aspiring+Machine+Learning+Engineer;AI+%2F+ML+Undergraduate;HPC+%26+Parallel+Computing" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Passionate about leveraging Deep Learning, Large Language Models (LLMs), and High-Performance Computing to architect optimized, real-world parallel solutions.</strong>
+  <strong>Passionate about leveraging Deep Learning, High-Performance Computing, and data-driven parallel solutions to solve real-world complexities.</strong>
 </p>
-
 ---
 
 ## 🤖 About Me
 
-I am a Bachelor of Technology undergraduate student specializing in **Artificial Intelligence and Machine Learning** at the Vasireddy Venkatadri Institute of Technology. My technical expertise thrives at the intersection of designing intelligent AI/LLM systems and performance-optimizing computational workflows via accelerated hardware architectures. Beyond development, I serve as a **Class Representative**, bridging coordination between faculty and students.
+I am a B.Tech undergraduate CSE student specializing in **Artificial Intelligence and Machine Learning** at the Vasireddy Venkatadri Institute of Technology. My technical expertise thrives at the intersection of designing intelligent AI/LLM systems and performance-optimizing computational workflows via accelerated hardware architectures. Beyond development, I serve as a **Class Representative**, bridging coordination between faculty and students.
 
 - 🚀 **HPC Experience (C-DAC Pune):** Engineered high-performance storage and retrieval architectures for large-scale telecom traffic using Berkeley DB. **Optimized city-router mappings to reduce query response times by 30%** leveraging OpenMP, MPI, and GPU acceleration.
 - 🧠 **Generative AI & LLMs:** Experienced in building intelligent agentic workflows and retrieval systems using **RAG, LangChain, Ollama (Local LLMs), and Hugging Face**.
@@ -110,7 +109,7 @@ I am a Bachelor of Technology undergraduate student specializing in **Artificial
 * **Google Cloud:** Generative AI Professional Path (45 Hours | 24 Skill Badges).
 * **C-DAC Pune:** High-Performance Data Management using Berkeley Database Library.
 * **AWS Academy:** Graduate - Cloud Foundations (20 Hours).
-* **NPTEL IIT:** Ethical Hacking (Elite Certification Status).
+* **NPTEL IIT:** Ethical Hacking (Elite Silver Certification Status), HCI (Elite Gold Certification Status).
 * **DX Edge:** Digital Maturity Diagnostic Framework Certification.
 
 ---
